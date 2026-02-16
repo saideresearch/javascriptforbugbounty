@@ -1,5 +1,5 @@
-# javascriptforbugbounty
-JavaScript For Bug Bounty
+
+# JavaScript For Bug Bounty
 
 
 PHASE 1 – JAVASCRIPT FUNDAMENTALS
